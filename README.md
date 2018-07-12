@@ -31,26 +31,47 @@ Create a JavaScript code that prints multiples of 5 up to 50.
 6. Expected Output
 
 Using for Loop
+
 5
+
 10
+
 15
+
 20
+
 25
+
 30
+
 35
+
 40
+
 45
+
 50
+
 Using while loop
+
 5
+
 10
+
 15
+
 20
+
 25
+
 30
+
 35
+
 40
+
 45
+
 50
 
 7. Approximate time to complete
